@@ -51,7 +51,6 @@ langchain-prompt-llm-chain/
 ├── langchain-prompt-llm-chain.ipynb
 ├── requirements.txt
 ├── .env.example
-├── .gitignore
 └── README.md
 ```
 
